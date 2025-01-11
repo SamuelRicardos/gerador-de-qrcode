@@ -50,10 +50,3 @@ O projeto foi construído utilizando as seguintes tecnologias:
 4. Inicie o servidor:
    ```bash
    python manage.py runserver
-
-
-  
-
-
-
-
